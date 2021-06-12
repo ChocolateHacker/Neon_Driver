@@ -1,0 +1,32 @@
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers\Neon_Drivers\bin\Debug\netcoreapp3.1\Neon_Drivers.exe
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers\Neon_Drivers\bin\Debug\netcoreapp3.1\Neon_Drivers.deps.json
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers\Neon_Drivers\bin\Debug\netcoreapp3.1\Neon_Drivers.runtimeconfig.json
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers\Neon_Drivers\bin\Debug\netcoreapp3.1\Neon_Drivers.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers\Neon_Drivers\bin\Debug\netcoreapp3.1\Neon_Drivers.dll
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers\Neon_Drivers\bin\Debug\netcoreapp3.1\Neon_Drivers.pdb
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.Properties.Resources.resources
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.AssemblyInfo.cs
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.dll
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.pdb
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.genruntimeconfig.cache
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers (старая рабочая)\Neon_Drivers\bin\Debug\netcoreapp3.1\Neon_Drivers.exe
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers (старая рабочая)\Neon_Drivers\bin\Debug\netcoreapp3.1\Neon_Drivers.deps.json
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers (старая рабочая)\Neon_Drivers\bin\Debug\netcoreapp3.1\Neon_Drivers.runtimeconfig.json
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers (старая рабочая)\Neon_Drivers\bin\Debug\netcoreapp3.1\Neon_Drivers.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers (старая рабочая)\Neon_Drivers\bin\Debug\netcoreapp3.1\Neon_Drivers.dll
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers (старая рабочая)\Neon_Drivers\bin\Debug\netcoreapp3.1\Neon_Drivers.pdb
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers (старая рабочая)\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers (старая рабочая)\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.Properties.Resources.resources
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers (старая рабочая)\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.View.resources
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers (старая рабочая)\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers (старая рабочая)\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers (старая рабочая)\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.AssemblyInfo.cs
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers (старая рабочая)\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers (старая рабочая)\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.dll
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers (старая рабочая)\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.pdb
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers (старая рабочая)\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.genruntimeconfig.cache
+\\Mac\Home\Desktop\Уник\C#\Основы программирования на примере C#. Часть 2\Игра\Neon_Drivers\Neon_Drivers\obj\Debug\netcoreapp3.1\Neon_Drivers.PlayerView.resources
